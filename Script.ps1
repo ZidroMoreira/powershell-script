@@ -78,4 +78,3 @@ switch ($choice) {
     "2" { Restore-All }
     default { Write-Host "Invalid option. Exiting script." }
 }
-
